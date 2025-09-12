@@ -1,0 +1,6 @@
+langgraph
+langchain-core
+langchain-groq
+python-docx
+PyMuPDF
+python-dotenv
