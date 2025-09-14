@@ -1,9 +1,9 @@
-# 🎬 AI-powered Screenplay Enhancer
+# AI-powered Screenplay Enhancer
 
 This project provides a pipeline for **analyzing and enhancing screenplays** using Large Language Models (LLMs).  
 It extracts characters, splits scenes, analyzes tones, enhances dialogues, resolves inconsistencies, and produces a polished final script.
 
-## 🚀 Features
+## Features
 - Parse raw scripts into structured **scenes & characters**
 - Extract scripts from `.txt`, `.docx`, `.pdf`
 - Character profiling (speaking style & emotional arc)
@@ -21,7 +21,7 @@ It extracts characters, splits scenes, analyzes tones, enhances dialogues, resol
 - **`requirements.txt`** → Python dependencies
 - **`.env`** → Store API keys (e.g., `GROQ_API_KEY=your_key_here`)
 
-## ⚙️ Setup
+## Setup
 
 1. Clone the repository:
    ```bash
