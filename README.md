@@ -1,4 +1,4 @@
-# 🎬 Screenplay Enhancer with LLM
+# 🎬 AI-powered Screenplay Enhancer
 
 This project provides a pipeline for **analyzing and enhancing screenplays** using Large Language Models (LLMs).  
 It extracts characters, splits scenes, analyzes tones, enhances dialogues, resolves inconsistencies, and produces a polished final script.
